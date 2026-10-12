@@ -1,4 +1,4 @@
-# Alapps
+# AIapps
 
 我的 AI 应用学习仓库 —— 从零开始，边做项目学 Python，走向 AI 大模型应用开发。
 
